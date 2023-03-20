@@ -55,11 +55,11 @@
 
 }
 
-.main__nav {
+nav {
     margin-left: 80px;
 }
 
-.main__nav a {
+.nav a {
     text-decoration: none;
     color: rgba(82, 34, 208, 1);
     font-size: 20px;
@@ -67,12 +67,12 @@
 
 }
 
-.main__nav li {
+.nav li {
     list-style-type: none;
 
 }
 
-.main__nav ul {
+.nav ul {
     display: flex;
     gap: 15px;
 
